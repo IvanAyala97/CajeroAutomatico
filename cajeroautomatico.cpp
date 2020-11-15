@@ -12,7 +12,6 @@ int main(){
 	cin>>nip_ingresado;
 	cout<<"\n";	
 	system("cls");
-	
 	if (nip_ingresado==nip_actual){   //COMPARATIVA DE LOS NIP PARA DAR LUZ VERDE AL ACCESO
 		cout<<"ACCESO APROBADO!!"<<endl;
 		cout<<"\n";
